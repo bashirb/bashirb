@@ -1,4 +1,12 @@
-### Hi there 👋
+### Bashir Bashir 👋
+
+I'm a Fulbright scholar and business analytics master's student who's passionate about data and how to utilize it to solve real-world problems. I thrive in environments that value a growth mindset and constant learning and when many fields of knowledge intersect.
+_____
+
+#### Projects on Jupyter Notebook
+
+- [Exploring Ebay Car Data](https://github.com/Basheer26/Exploring-eBay-Car-Sales-Data "Car ebay project")
+
 
 <!--
 **bashirb/bashirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
