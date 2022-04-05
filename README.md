@@ -5,7 +5,11 @@ _____
 
 #### Projects on Jupyter Notebook
 
-- [Exploring Ebay Car Data](https://github.com/Basheer26/Exploring-eBay-Car-Sales-Data "Car ebay project")
+
+- [stock-prediction](https://github.com/bashirb/stock-prediction "Stock Prediction")
+- [Data Cleaning laptops dataset](https://github.com/bashirb/Data-Cleaning-laptops-dataset "Data Cleaning laptops dataset")
+- [Exploring Ebay Car Data](https://github.com/bashirb/Data-Cleaning-laptops-dataset "Car ebay project")
+
 
 
 <!--
