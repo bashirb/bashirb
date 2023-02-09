@@ -1,6 +1,6 @@
 ### Bashir Bashir 👋
 
-I'm a Fulbright scholar and business analytics master's student who's passionate about data and how to utilize it to solve real-world problems. I thrive in environments that value a growth mindset and constant learning and when many fields of knowledge intersect.
+I'm a Fulbright scholar and business analytics master's student who's passionate about data and how to utilize it to solve real-world problems. I have an academic background in business, psychology and analytics and I'm commited to self learning through online courses and bootcamps to expand my skillset . I thrive in environments that value a growth mindset and constant learning and when many fields of knowledge intersect.
 _____
 
 #### Projects on Jupyter Notebook
