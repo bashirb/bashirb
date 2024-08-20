@@ -1,7 +1,11 @@
-### Bashir Bashir 👋
+# Bashir Bashir 👋
 
 I'm a Fulbright scholar and business analytics master's student who's passionate about data and how to utilize it to solve real-world problems. I have an academic background in business, psychology and analytics and I'm commited to self learning through online courses and bootcamps to expand my skillset . I thrive in environments that value a growth mindset and constant learning and when many fields of knowledge intersect.
 _____
+
+### Languages and tools
+<img align="left" alt="java" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+
 
 #### Projects on Jupyter Notebook
 
