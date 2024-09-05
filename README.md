@@ -20,7 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices
 
 ### Projects
 
-- [streamlit-dashboard-app](https://github.com/bashirb/streamlit-dashboard-app "Financial Analysis")
+- [Financial Market Analysis dashboard app with Streamlit](https://github.com/bashirb/streamlit-dashboard-app "Financial Analysis")
 - [stock-prediction](https://github.com/bashirb/stock-prediction "Stock Prediction")
 - [Data Cleaning laptops dataset](https://github.com/bashirb/Data-Cleaning-laptops-dataset "Data Cleaning laptops dataset")
 - [Exploring Ebay Car Data](https://github.com/bashirb/Data-Cleaning-laptops-dataset "Car ebay project")
